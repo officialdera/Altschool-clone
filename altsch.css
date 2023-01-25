@@ -1,0 +1,91 @@
+.guy{
+    border: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: none;
+    float: right;
+    font-size: 18px;
+    margin-right: 10px;
+     background: none;
+     transition: 0.7s;
+     background-size: cover;
+     transform-style: preserve-3d;
+      
+}
+
+.guy:hover{
+    background-color: black;
+    color: white;
+   cursor: pointer;
+   border-width: 50%;
+ 
+}
+
+
+.klin{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 4%;
+    color: white;
+    
+}
+h1{
+    font-size:40px;
+}
+
+.love{
+    font-size: large;
+}
+
+
+section{
+        background-color:#3d056b;
+        text-align: center;
+        height: 287px;
+        margin-bottom: 10%;
+    
+    
+}
+
+        footer{
+            background-color: black;
+        color: white;
+        height: 270px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 17px;
+  
+ 
+}
+  
+
+.grid-container{
+    display: grid;
+    grid-template-columns :auto auto auto auto auto auto ;
+        border: none;
+        padding:2%;
+        inline-size: 60%;
+    margin-left: 19%;
+    font-style: light;
+    font-size: 80%;
+    column-gap: 0px;
+
+
+}
+
+
+.leo{
+        font-weight: lighter;
+    font-size: x-small;
+    text-align: left;
+    margin-left: 21%;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.manni{
+    color: white;
+    text-align: left;
+    margin-left: 21%;
+   margin-top:3%;
+   font-family: Arial, Helvetica, sans-serif;
+}
